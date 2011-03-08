@@ -1,5 +1,5 @@
 body { margin-top: 1.0em; font-family: "Helvetica,Arial,FreeSans"; }
-#container { margin: 0 auto; width: 804px; }
+#container { margin: 0 auto; width: 504px; }
 #share { margin: 0 auto; width: 350px; }
 h1 { font-size: 3.8em; margin-bottom: 3px; }
 h1 .small { font-size: 0.4em; }
@@ -13,5 +13,4 @@ hr { border: 0; width: 80%; border-bottom: 1px solid #aaa}
 .footer { text-align:center; padding-top:30px; font-style: italic; }
 .white { color: #fff; }
 iframe.twitter-share-button.twitter-count-horizontal { position: relative; left: 7px; }
-//.facebook-share-button { position: relative; top: -5px; }
-//.fb_share_count_nub_right { position: relative; top: 8px; }
+#buzz-share { position: relative; top: -7px; }
